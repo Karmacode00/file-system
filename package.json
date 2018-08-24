@@ -1,0 +1,14 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "file": "./index.js"
+  },
+  "author": "Ale",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
